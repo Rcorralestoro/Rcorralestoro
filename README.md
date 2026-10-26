@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Rafa 👋
 
-<!--
-**Rcorralestoro/Rcorralestoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador junior con formación DAM. Me muevo con Java, Python y SQL, y me gusta
+construir aplicaciones útiles, claras y bien probadas.
 
-Here are some ideas to get you started:
+## Tecnologías
+- **Lenguajes:** Python, Java, SQL
+- **Datos:** SQLite, pandas
+- **Web:** Streamlit
+- **Herramientas:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Cómo trabajo
+- Código legible y con pruebas automáticas.
+- Documentación para que otra persona pueda entender y usar lo que hago.
+- Aprendo de forma constante y práctica.
+
+## Contacto
+- Ciudad Real, España · Abierto a oportunidades (también en remoto)
+- LinkedIn: linkedin.com/in/rafaelcorralestoro
